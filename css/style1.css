@@ -33,7 +33,9 @@ img {
   }
 
   #photo{
-      float: left
+    float: left;
+    width: 330px;
+    height: 200px;
   }
 p{
     color: grey;
