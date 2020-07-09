@@ -1,0 +1,62 @@
+#logo{
+    color: white;
+    background-color: teal;
+    padding: 8px;
+}
+
+li{
+    float: right
+}
+
+h1,h2{
+    color: teal;
+}
+
+.col-md-8{
+    height: 800px;
+    width: auto;
+}
+
+.col-md-4{    
+    height: 400px;
+    width: auto;
+}
+
+.col-md-12{ 
+    background-color: white;
+    padding: 20px;
+ }
+img {
+    width: 400px;
+    height: 300px;
+    object-fit: fill;
+  }
+
+  #photo{
+      float: left
+  }
+p{
+    color: grey;
+    font-size: 20px;
+}
+
+
+.imageNav-photo {
+    width: 100%   ;  
+    height: auto;
+}
+h4{
+    text-align: center;
+    color: teal;
+}
+
+.row{
+    margin-top: 50px;
+}
+body{
+    background-color: grey;
+}
+
+.container{
+    margin-top: 50px;
+}
